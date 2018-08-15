@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: Screepy
+Version: 0.2
+Summary: A mini spider framework, like Scrapy
+Home-page: #
+Author: dirk2823
+Author-email: dirk2823@foxmail.com
+License: Apache License v2
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6

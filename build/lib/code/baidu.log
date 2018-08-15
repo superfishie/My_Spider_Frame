@@ -1,0 +1,549 @@
+2018-08-13 16:22:24 engine.py [line:33] INFO: Start time : 2018-08-13 16:22:24.348000
+2018-08-13 16:22:25 engine.py [line:38] INFO: End time : 2018-08-13 16:22:25.294000
+2018-08-13 16:22:25 engine.py [line:40] INFO: Using time: 0.946
+2018-08-13 16:44:57 engine.py [line:33] INFO: Start time : 2018-08-13 16:44:57.772000
+2018-08-13 16:45:00 engine.py [line:38] INFO: End time : 2018-08-13 16:45:00.551000
+2018-08-13 16:45:00 engine.py [line:40] INFO: Using time: 2.779
+2018-08-13 17:03:54 engine.py [line:33] INFO: Start time : 2018-08-13 17:03:54.696000
+2018-08-13 17:03:54 scheduler.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-13 17:03:56 engine.py [line:38] INFO: End time : 2018-08-13 17:03:56.505000
+2018-08-13 17:03:56 engine.py [line:40] INFO: Using time: 1.809
+2018-08-13 19:34:13 engine.py [line:33] INFO: Start time : 2018-08-13 19:34:13.224000
+2018-08-13 19:34:13 scheduler.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-13 19:44:57 engine.py [line:33] INFO: Start time : 2018-08-13 19:44:57.134000
+2018-08-13 19:44:57 scheduler.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-13 19:44:58 engine.py [line:38] INFO: End time : 2018-08-13 19:44:58.643000
+2018-08-13 19:44:58 engine.py [line:40] INFO: Using time: 1.509
+2018-08-13 20:07:57 engine.py [line:33] INFO: Start time : 2018-08-13 20:07:57.842000
+2018-08-13 20:08:01 engine.py [line:38] INFO: End time : 2018-08-13 20:08:01.033000
+2018-08-13 20:08:01 engine.py [line:40] INFO: Using time: 3.191
+2018-08-13 20:38:50 engine.py [line:33] INFO: Start time : 2018-08-13 20:38:50.831000
+2018-08-13 20:38:54 engine.py [line:38] INFO: End time : 2018-08-13 20:38:54.376000
+2018-08-13 20:38:54 engine.py [line:40] INFO: Using time: 3.545
+2018-08-13 20:45:12 engine.py [line:33] INFO: Start time : 2018-08-13 20:45:12.220000
+2018-08-13 20:48:56 engine.py [line:33] INFO: Start time : 2018-08-13 20:48:56.883000
+2018-08-13 20:51:32 engine.py [line:38] INFO: End time : 2018-08-13 20:51:32.210000
+2018-08-13 20:51:32 engine.py [line:40] INFO: Using time: 155.327
+2018-08-13 21:40:13 engine.py [line:33] INFO: Start time : 2018-08-13 21:40:13.590000
+2018-08-13 21:40:13 scheduler.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-13 21:54:55 engine.py [line:33] INFO: Start time : 2018-08-13 21:54:55.523000
+2018-08-13 21:54:55 scheduler.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-13 21:59:46 engine.py [line:33] INFO: Start time : 2018-08-13 21:59:46.969000
+2018-08-13 21:59:46 scheduler.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-13 22:01:34 engine.py [line:38] INFO: End time : 2018-08-13 22:01:34.395000
+2018-08-13 22:01:34 engine.py [line:40] INFO: Using time: 107.426
+2018-08-14 16:31:47 engine.py [line:33] INFO: Start time : 2018-08-14 16:31:47.312000
+2018-08-14 16:31:47 scheduler.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-14 16:34:24 engine.py [line:33] INFO: Start time : 2018-08-14 16:34:24.423000
+2018-08-14 16:34:24 scheduler.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-14 16:37:55 engine.py [line:38] INFO: End time : 2018-08-14 16:37:55.381000
+2018-08-14 16:37:55 engine.py [line:40] INFO: Using time: 210.958
+2018-08-14 19:46:49 engine.py [line:66] INFO: Start time : 2018-08-14 19:46:49.083000
+2018-08-14 19:46:49 scheduler.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-14 19:46:54 engine.py [line:71] INFO: End time : 2018-08-14 19:46:54.324000
+2018-08-14 19:46:54 engine.py [line:73] INFO: Using time: 5.241
+2018-08-14 19:48:22 engine.py [line:66] INFO: Start time : 2018-08-14 19:48:22.482000
+2018-08-14 23:06:19 engine.py [line:66] INFO: Start time : 2018-08-14 23:06:19.962000
+2018-08-14 23:09:12 engine.py [line:66] INFO: Start time : 2018-08-14 23:09:12.192000
+2018-08-14 23:09:58 engine.py [line:66] INFO: Start time : 2018-08-14 23:09:58.658000
+2018-08-14 23:10:39 engine.py [line:66] INFO: Start time : 2018-08-14 23:10:39.883000
+2018-08-14 23:10:39 scheduler.py [line:39] INFO: Filter Request: <http://www.baidu.com>
+2018-08-14 23:10:40 engine.py [line:71] INFO: End time : 2018-08-14 23:10:40.477000
+2018-08-14 23:10:40 engine.py [line:73] INFO: Using time: 0.594
+2018-08-15 08:04:44 engine.py [line:66] INFO: Start time : 2018-08-15 08:04:44.422000
+2018-08-15 08:04:44 scheduler.py [line:39] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 08:04:45 engine.py [line:71] INFO: End time : 2018-08-15 08:04:45.139000
+2018-08-15 08:04:45 engine.py [line:73] INFO: Using time: 0.717
+2018-08-15 08:19:57 engine.py [line:68] INFO: Start time : 2018-08-15 08:19:57.146000
+2018-08-15 08:19:57 scheduler.py [line:39] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 08:19:57 engine.py [line:85] INFO: Main thread is over
+2018-08-15 08:19:57 engine.py [line:73] INFO: End time : 2018-08-15 08:19:57.147000
+2018-08-15 08:19:57 engine.py [line:75] INFO: Using time: 0.001
+2018-08-15 09:29:47 engine.py [line:72] INFO: Start time : 2018-08-15 09:29:47.681000
+2018-08-15 09:29:47 scheduler.py [line:43] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 09:29:47 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 09:29:48 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 09:29:51 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=0>
+2018-08-15 09:31:20 engine.py [line:72] INFO: Start time : 2018-08-15 09:31:20.331000
+2018-08-15 09:31:20 scheduler.py [line:43] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 09:31:20 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 09:31:21 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=0>
+2018-08-15 09:31:22 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=25>
+2018-08-15 09:31:22 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 09:31:23 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=50>
+2018-08-15 09:31:27 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291546/>
+2018-08-15 09:31:27 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292052/>
+2018-08-15 09:31:31 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1295644/>
+2018-08-15 09:31:32 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292720/>
+2018-08-15 09:31:33 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292063/>
+2018-08-15 09:31:35 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292722/>
+2018-08-15 09:31:38 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1295124/>
+2018-08-15 09:31:39 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3541415/>
+2018-08-15 09:31:39 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291561/>
+2018-08-15 09:31:43 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/2131459/>
+2018-08-15 09:31:44 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3793023/>
+2018-08-15 09:31:45 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3011091/>
+2018-08-15 09:31:47 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292001/>
+2018-08-15 09:31:50 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291549/>
+2018-08-15 09:31:51 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292213/>
+2018-08-15 09:31:53 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291841/>
+2018-08-15 09:31:53 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292064/>
+2018-08-15 09:31:55 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291560/>
+2018-08-15 09:31:58 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1889243/>
+2018-08-15 09:32:00 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1307914/>
+2018-08-15 09:32:01 downloader.py [line:35] INFO: Downloader response : [404] <https://movie.douban.com/subject/5912992/>
+2018-08-15 09:32:03 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/6786002/>
+2018-08-15 09:32:03 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1849031/>
+2018-08-15 09:32:04 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1300267/>
+2018-08-15 09:32:07 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3319755/>
+2018-08-15 09:32:11 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/25662329/>
+2018-08-15 09:32:11 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291828/>
+2018-08-15 09:32:11 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293182/>
+2018-08-15 09:32:16 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291858/>
+2018-08-15 09:32:17 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1851857/>
+2018-08-15 09:32:17 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1929463/>
+2018-08-15 09:32:20 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292365/>
+2018-08-15 09:32:23 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291552/>
+2018-08-15 09:32:25 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292000/>
+2018-08-15 09:32:25 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291583/>
+2018-08-15 09:32:27 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1299398/>
+2018-08-15 09:32:29 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1296141/>
+2018-08-15 09:32:30 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/2129039/>
+2018-08-15 09:32:32 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293839/>
+2018-08-15 09:32:34 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293350/>
+2018-08-15 09:32:36 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1900841/>
+2018-08-15 09:32:37 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292224/>
+2018-08-15 09:32:39 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1298624/>
+2018-08-15 09:32:41 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/21937445/>
+2018-08-15 09:32:44 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1308807/>
+2018-08-15 09:32:47 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1309046/>
+2018-08-15 09:32:47 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/26387939/>
+2018-08-15 09:32:47 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3442220/>
+2018-08-15 09:32:53 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291548/>
+2018-08-15 09:32:53 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1299131/>
+2018-08-15 09:32:55 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291572/>
+2018-08-15 09:32:57 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1306029/>
+2018-08-15 09:32:59 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291818/>
+2018-08-15 09:33:01 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292220/>
+2018-08-15 09:33:03 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292262/>
+2018-08-15 09:33:04 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291571/>
+2018-08-15 09:33:05 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1301753/>
+2018-08-15 09:33:07 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/21937452/>
+2018-08-15 09:33:10 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1303021/>
+2018-08-15 09:33:11 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1296736/>
+2018-08-15 09:33:12 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292223/>
+2018-08-15 09:33:15 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292215/>
+2018-08-15 09:33:16 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1787291/>
+2018-08-15 09:33:17 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1780330/>
+2018-08-15 09:33:21 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1294408/>
+2018-08-15 09:33:21 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1485260/>
+2018-08-15 09:33:23 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292402/>
+2018-08-15 09:33:25 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1294639/>
+2018-08-15 09:33:27 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291843/>
+2018-08-15 09:33:28 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292849/>
+2018-08-15 09:33:30 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291832/>
+2018-08-15 09:33:32 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3742360/>
+2018-08-15 09:33:34 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292370/>
+2018-08-15 09:33:34 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/26580232/>
+2018-08-15 09:33:39 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293544/>
+2018-08-15 09:33:41 engine.py [line:109] INFO: Main thread is over
+2018-08-15 09:33:41 engine.py [line:77] INFO: End time : 2018-08-15 09:33:41.646000
+2018-08-15 09:33:41 engine.py [line:79] INFO: Using time: 141.315
+2018-08-15 10:50:12 engine.py [line:78] INFO: Start time : 2018-08-15 10:50:12.671000
+2018-08-15 10:50:12 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 10:50:12 scheduler.py [line:43] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 10:50:13 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=0>
+2018-08-15 10:50:13 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 10:50:14 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=25>
+2018-08-15 10:50:14 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=50>
+2018-08-15 10:50:15 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 10:50:17 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292052/>
+2018-08-15 10:50:17 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291546/>
+2018-08-15 10:50:18 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1295644/>
+2018-08-15 10:50:21 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292063/>
+2018-08-15 10:50:21 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292720/>
+2018-08-15 10:50:21 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292722/>
+2018-08-15 10:50:26 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291561/>
+2018-08-15 10:50:28 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/2131459/>
+2018-08-15 10:50:29 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3011091/>
+2018-08-15 10:50:32 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3793023/>
+2018-08-15 10:50:34 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292001/>
+2018-08-15 10:50:37 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291549/>
+2018-08-15 10:50:38 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292213/>
+2018-08-15 10:50:40 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292064/>
+2018-08-15 10:50:43 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291841/>
+2018-08-15 10:50:46 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291560/>
+2018-08-15 10:50:47 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3541415/>
+2018-08-15 10:50:48 downloader.py [line:35] INFO: Downloader response : [404] <https://movie.douban.com/subject/5912992/>
+2018-08-15 10:50:49 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1889243/>
+2018-08-15 10:50:50 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1307914/>
+2018-08-15 10:50:53 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1300267/>
+2018-08-15 10:50:55 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1849031/>
+2018-08-15 10:50:55 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/6786002/>
+2018-08-15 10:50:57 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3319755/>
+2018-08-15 10:50:57 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291828/>
+2018-08-15 10:50:58 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/25662329/>
+2018-08-15 10:50:59 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1295124/>
+2018-08-15 10:50:59 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293182/>
+2018-08-15 10:51:02 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1851857/>
+2018-08-15 10:51:02 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291858/>
+2018-08-15 10:51:03 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1929463/>
+2018-08-15 10:51:05 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292000/>
+2018-08-15 10:51:07 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291583/>
+2018-08-15 10:51:08 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291552/>
+2018-08-15 10:51:09 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292365/>
+2018-08-15 10:51:09 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1299398/>
+2018-08-15 10:51:11 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/2129039/>
+2018-08-15 10:51:12 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1296141/>
+2018-08-15 10:51:13 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293839/>
+2018-08-15 10:51:14 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1900841/>
+2018-08-15 10:51:15 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292224/>
+2018-08-15 10:51:15 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293350/>
+2018-08-15 10:51:17 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1298624/>
+2018-08-15 10:51:18 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1308807/>
+2018-08-15 10:51:20 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/26387939/>
+2018-08-15 10:51:20 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1309046/>
+2018-08-15 10:51:21 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/21937445/>
+2018-08-15 10:51:23 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1299131/>
+2018-08-15 10:51:23 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291548/>
+2018-08-15 10:51:24 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3442220/>
+2018-08-15 10:51:26 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291572/>
+2018-08-15 10:51:27 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1306029/>
+2018-08-15 10:51:28 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291571/>
+2018-08-15 10:51:28 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291818/>
+2018-08-15 10:51:29 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292220/>
+2018-08-15 10:51:30 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292262/>
+2018-08-15 10:51:33 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/21937452/>
+2018-08-15 10:51:33 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1301753/>
+2018-08-15 10:51:34 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1296736/>
+2018-08-15 10:51:37 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1303021/>
+2018-08-15 10:51:38 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292223/>
+2018-08-15 10:51:38 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1787291/>
+2018-08-15 10:51:38 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292215/>
+2018-08-15 10:51:39 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1780330/>
+2018-08-15 10:51:42 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1485260/>
+2018-08-15 10:51:43 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292402/>
+2018-08-15 10:51:43 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1294408/>
+2018-08-15 10:51:44 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1294639/>
+2018-08-15 10:51:45 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292849/>
+2018-08-15 10:51:46 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291843/>
+2018-08-15 10:51:47 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3742360/>
+2018-08-15 10:51:47 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291832/>
+2018-08-15 10:51:48 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292370/>
+2018-08-15 10:51:49 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/26580232/>
+2018-08-15 10:51:51 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293544/>
+2018-08-15 10:51:52 engine.py [line:117] INFO: Main thread is over
+2018-08-15 10:51:52 engine.py [line:83] INFO: End time : 2018-08-15 10:51:52.407000
+2018-08-15 10:51:52 engine.py [line:85] INFO: Using time: 99.736
+2018-08-15 10:52:49 engine.py [line:78] INFO: Start time : 2018-08-15 10:52:49.441000
+2018-08-15 10:52:49 engine.py [line:95] INFO: Async Type is coroutine
+2018-08-15 10:52:49 scheduler.py [line:43] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 10:52:50 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 10:52:50 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 10:52:50 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=25>
+2018-08-15 10:52:51 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=0>
+2018-08-15 10:52:51 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=50>
+2018-08-15 10:52:52 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291828/>
+2018-08-15 10:52:53 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293182/>
+2018-08-15 10:52:55 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/25662329/>
+2018-08-15 10:52:55 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1851857/>
+2018-08-15 10:52:57 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1929463/>
+2018-08-15 10:52:58 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292365/>
+2018-08-15 15:40:49 engine.py [line:78] INFO: Start time : 2018-08-15 15:40:49.940000
+2018-08-15 15:40:49 engine.py [line:95] INFO: Async Type is coroutine
+2018-08-15 15:40:49 set.py [line:20] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 15:40:50 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 15:40:51 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 15:40:52 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-08-15 15:40:52 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-08-15 15:40:56 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-08-15 15:40:56 engine.py [line:117] INFO: Main thread is over
+2018-08-15 15:40:56 engine.py [line:83] INFO: End time : 2018-08-15 15:40:56.900000
+2018-08-15 15:40:56 engine.py [line:85] INFO: Using time: 6.96
+2018-08-15 15:44:05 engine.py [line:78] INFO: Start time : 2018-08-15 15:44:05.865000
+2018-08-15 15:44:05 engine.py [line:95] INFO: Async Type is coroutine
+2018-08-15 15:44:05 set.py [line:20] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 15:44:06 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 15:44:06 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 15:44:08 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-08-15 15:44:09 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-08-15 15:44:11 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-08-15 15:45:55 engine.py [line:78] INFO: Start time : 2018-08-15 15:45:55.438000
+2018-08-15 15:45:55 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 15:45:57 set.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 15:45:59 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=0>
+2018-08-15 15:45:59 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 15:46:01 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=50>
+2018-08-15 15:46:02 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=25>
+2018-08-15 15:46:02 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 15:46:04 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1295644/>
+2018-08-15 15:46:04 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292052/>
+2018-08-15 15:46:04 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291546/>
+2018-08-15 15:46:10 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292063/>
+2018-08-15 15:46:11 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292722/>
+2018-08-15 15:46:11 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292720/>
+2018-08-15 15:46:13 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291561/>
+2018-08-15 15:46:15 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1295124/>
+2018-08-15 15:46:17 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F2131459%2F>
+2018-08-15 15:46:18 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3011091/>
+2018-08-15 15:46:19 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3541415/>
+2018-08-15 15:46:20 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3793023/>
+2018-08-15 15:46:21 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292001/>
+2018-08-15 15:46:23 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291549/>
+2018-08-15 15:46:23 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292213/>
+2018-08-15 15:46:27 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291841%2F>
+2018-08-15 15:46:27 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291560%2F>
+2018-08-15 15:46:28 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F5912992%2F>
+2018-08-15 15:46:29 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1889243%2F>
+2018-08-15 15:46:30 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1307914%2F>
+2018-08-15 15:46:30 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F6786002%2F>
+2018-08-15 15:46:32 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1300267%2F>
+2018-08-15 15:46:33 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F3319755%2F>
+2018-08-15 15:46:34 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1849031%2F>
+2018-08-15 15:46:35 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292064/>
+2018-08-15 15:46:36 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291572%2F>
+2018-08-15 15:46:36 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1306029%2F>
+2018-08-15 15:46:37 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291571%2F>
+2018-08-15 15:46:37 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292220%2F>
+2018-08-15 15:48:14 engine.py [line:78] INFO: Start time : 2018-08-15 15:48:14.458000
+2018-08-15 15:48:14 engine.py [line:95] INFO: Async Type is coroutine
+2018-08-15 15:48:16 set.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 15:48:17 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 15:48:18 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 15:48:20 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=0>
+2018-08-15 15:48:21 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=25>
+2018-08-15 15:48:24 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=50>
+2018-08-15 15:48:24 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292052/>
+2018-08-15 15:48:25 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291828%2F>
+2018-08-15 15:48:27 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292720%2F>
+2018-08-15 15:48:27 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291546%2F>
+2018-08-15 15:48:27 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1295644%2F>
+2018-08-15 15:48:29 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291561%2F>
+2018-08-15 15:48:29 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292063%2F>
+2018-08-15 15:48:30 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292722%2F>
+2018-08-15 15:48:31 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F2131459%2F>
+2018-08-15 15:48:31 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F3541415%2F>
+2018-08-15 15:48:32 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1295124%2F>
+2018-08-15 15:48:33 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F3011091%2F>
+2018-08-15 15:48:33 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F3793023%2F>
+2018-08-15 15:48:34 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292001%2F>
+2018-08-15 15:48:37 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291549/>
+2018-08-15 15:48:38 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292213/>
+2018-08-15 15:48:38 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292064/>
+2018-08-15 15:48:40 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1889243%2F>
+2018-08-15 15:48:40 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291560%2F>
+2018-08-15 15:48:41 downloader.py [line:35] INFO: Downloader response : [404] <https://movie.douban.com/subject/5912992/>
+2018-08-15 15:48:42 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291841%2F>
+2018-08-15 15:48:42 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1307914/>
+2018-08-15 15:48:43 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/6786002/>
+2018-08-15 15:48:44 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1300267%2F>
+2018-08-15 15:48:45 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1849031%2F>
+2018-08-15 15:48:45 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F3319755%2F>
+2018-08-15 15:48:46 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F25662329%2F>
+2018-08-15 15:48:46 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1293182%2F>
+2018-08-15 15:48:47 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1851857%2F>
+2018-08-15 15:48:48 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292365%2F>
+2018-08-15 15:48:49 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1929463%2F>
+2018-08-15 15:48:49 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291858%2F>
+2018-08-15 15:50:22 engine.py [line:78] INFO: Start time : 2018-08-15 15:50:22.462000
+2018-08-15 15:50:22 engine.py [line:95] INFO: Async Type is coroutine
+2018-08-15 15:50:22 set.py [line:20] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 15:50:24 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 15:50:24 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 15:50:25 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-08-15 15:50:28 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-08-15 15:50:29 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-08-15 15:50:29 engine.py [line:117] INFO: Main thread is over
+2018-08-15 15:50:29 engine.py [line:83] INFO: End time : 2018-08-15 15:50:29.475000
+2018-08-15 15:50:29 engine.py [line:85] INFO: Using time: 7.013
+2018-08-15 15:50:59 engine.py [line:78] INFO: Start time : 2018-08-15 15:50:59.074000
+2018-08-15 15:50:59 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 15:50:59 set.py [line:20] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 15:50:59 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 15:51:01 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 15:51:01 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-08-15 15:51:01 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-08-15 15:51:03 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-08-15 15:51:03 engine.py [line:117] INFO: Main thread is over
+2018-08-15 15:51:03 engine.py [line:83] INFO: End time : 2018-08-15 15:51:03.732000
+2018-08-15 15:51:03 engine.py [line:85] INFO: Using time: 4.658
+2018-08-15 15:52:50 engine.py [line:78] INFO: Start time : 2018-08-15 15:52:50.179000
+2018-08-15 15:52:50 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 15:52:51 set.py [line:38] INFO: Filter Request: <http://news.baidu.com>
+2018-08-15 15:52:51 set.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 15:52:51 set.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 15:52:51 set.py [line:38] INFO: Filter Request: <https://movie.douban.com/top250?start=0>
+2018-08-15 15:52:51 set.py [line:38] INFO: Filter Request: <https://movie.douban.com/top250?start=25>
+2018-08-15 15:52:51 set.py [line:38] INFO: Filter Request: <https://movie.douban.com/top250?start=50>
+2018-08-15 15:52:53 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1299398/>
+2018-08-15 15:52:54 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1296141/>
+2018-08-15 15:52:55 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293839/>
+2018-08-15 15:52:55 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/2129039/>
+2018-08-15 15:52:57 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293350/>
+2018-08-15 15:52:58 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292224%2F>
+2018-08-15 15:52:58 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1900841/>
+2018-08-15 15:53:00 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1298624%2F>
+2018-08-15 15:53:00 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F21937445%2F>
+2018-08-15 15:53:02 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F26387939%2F>
+2018-08-15 15:53:02 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1308807%2F>
+2018-08-15 15:56:24 engine.py [line:78] INFO: Start time : 2018-08-15 15:56:24.986000
+2018-08-15 15:56:24 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 15:56:24 set.py [line:20] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 15:56:25 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 15:56:25 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 15:56:27 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-08-15 15:56:28 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-08-15 15:56:31 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-08-15 15:56:31 engine.py [line:117] INFO: Main thread is over
+2018-08-15 15:56:31 engine.py [line:83] INFO: End time : 2018-08-15 15:56:31.841000
+2018-08-15 15:56:31 engine.py [line:85] INFO: Using time: 6.855
+2018-08-15 15:58:12 engine.py [line:78] INFO: Start time : 2018-08-15 15:58:12.882000
+2018-08-15 15:58:12 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 15:58:12 set.py [line:20] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 15:58:13 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 15:58:13 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 15:58:14 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-08-15 15:58:14 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-08-15 15:58:15 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-08-15 15:58:15 engine.py [line:117] INFO: Main thread is over
+2018-08-15 15:58:15 engine.py [line:83] INFO: End time : 2018-08-15 15:58:15.308000
+2018-08-15 15:58:15 engine.py [line:85] INFO: Using time: 2.426
+2018-08-15 15:58:48 engine.py [line:78] INFO: Start time : 2018-08-15 15:58:48.753000
+2018-08-15 15:58:48 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 15:58:48 set.py [line:20] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 15:58:51 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 15:58:51 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 15:58:53 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=0>
+2018-08-15 15:58:57 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=25>
+2018-08-15 15:59:00 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-08-15 15:59:02 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292052%2F>
+2018-08-15 15:59:06 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291546/>
+2018-08-15 15:59:09 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1295644%2F>
+2018-08-15 15:59:10 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292720%2F>
+2018-08-15 15:59:13 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292063%2F>
+2018-08-15 15:59:16 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292722%2F>
+2018-08-15 15:59:18 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291561%2F>
+2018-08-15 15:59:19 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1295124%2F>
+2018-08-15 15:59:22 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F3541415%2F>
+2018-08-15 15:59:25 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F2131459%2F>
+2018-08-15 15:59:28 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3011091/>
+2018-08-15 15:59:30 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3793023/>
+2018-08-15 15:59:33 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292001/>
+2018-08-15 15:59:36 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291549/>
+2018-08-15 15:59:38 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292213/>
+2018-08-15 15:59:41 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292064/>
+2018-08-15 15:59:47 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291841/>
+2018-08-15 15:59:52 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291560/>
+2018-08-15 15:59:54 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1889243/>
+2018-08-15 15:59:56 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F5912992%2F>
+2018-08-15 15:59:58 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1307914%2F>
+2018-08-15 16:00:00 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F6786002%2F>
+2018-08-15 16:00:02 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1300267%2F>
+2018-08-15 16:00:03 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1849031%2F>
+2018-08-15 16:00:05 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F3319755%2F>
+2018-08-15 16:00:06 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291828%2F>
+2018-08-15 16:00:09 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F25662329%2F>
+2018-08-15 16:00:11 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1293182%2F>
+2018-08-15 16:00:14 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1851857%2F>
+2018-08-15 16:00:16 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291858%2F>
+2018-08-15 16:00:18 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1929463/>
+2018-08-15 16:00:20 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292365/>
+2018-08-15 16:00:27 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292000/>
+2018-08-15 16:00:30 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291552%2F>
+2018-08-15 16:00:31 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291583/>
+2018-08-15 16:00:34 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1299398/>
+2018-08-15 16:00:37 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/2129039/>
+2018-08-15 16:00:42 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1296141/>
+2018-08-15 16:00:44 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1293839%2F>
+2018-08-15 16:00:45 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1900841/>
+2018-08-15 16:00:49 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1293350/>
+2018-08-15 16:00:50 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292224/>
+2018-08-15 16:00:54 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1298624/>
+2018-08-15 16:00:57 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1308807/>
+2018-08-15 16:01:00 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/21937445/>
+2018-08-15 16:01:02 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/26387939/>
+2018-08-15 16:01:06 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1309046/>
+2018-08-15 16:01:09 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3442220/>
+2018-08-15 16:01:13 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291548/>
+2018-08-15 16:01:15 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1299131/>
+2018-08-15 16:01:15 engine.py [line:117] INFO: Main thread is over
+2018-08-15 16:01:15 engine.py [line:83] INFO: End time : 2018-08-15 16:01:15.948000
+2018-08-15 16:01:15 engine.py [line:85] INFO: Using time: 147.195
+2018-08-15 16:04:17 engine.py [line:78] INFO: Start time : 2018-08-15 16:04:17.324000
+2018-08-15 16:04:17 engine.py [line:95] INFO: Async Type is coroutine
+2018-08-15 16:04:17 set.py [line:20] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 16:04:18 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 16:04:19 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 16:04:20 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=0>
+2018-08-15 16:04:22 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-08-15 16:04:24 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-08-15 16:04:26 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292052%2F>
+2018-08-15 16:04:28 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291546%2F>
+2018-08-15 16:04:30 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1295644%2F>
+2018-08-15 16:04:32 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292720%2F>
+2018-08-15 16:04:33 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292063%2F>
+2018-08-15 16:04:35 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292722%2F>
+2018-08-15 16:04:36 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291561%2F>
+2018-08-15 16:04:39 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1295124/>
+2018-08-15 16:04:41 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3541415/>
+2018-08-15 16:04:43 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/2131459/>
+2018-08-15 16:04:47 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/3011091/>
+2018-08-15 16:13:07 engine.py [line:78] INFO: Start time : 2018-08-15 16:13:07.535000
+2018-08-15 16:13:07 engine.py [line:95] INFO: Async Type is coroutine
+2018-08-15 16:13:45 engine.py [line:78] INFO: Start time : 2018-08-15 16:13:45.903000
+2018-08-15 16:13:45 engine.py [line:95] INFO: Async Type is coroutine
+2018-08-15 16:14:07 engine.py [line:78] INFO: Start time : 2018-08-15 16:14:07.491000
+2018-08-15 16:14:07 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:14:33 engine.py [line:78] INFO: Start time : 2018-08-15 16:14:33.352000
+2018-08-15 16:14:33 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:16:32 engine.py [line:78] INFO: Start time : 2018-08-15 16:16:32.880000
+2018-08-15 16:16:32 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:16:58 engine.py [line:78] INFO: Start time : 2018-08-15 16:16:58.706000
+2018-08-15 16:16:58 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:17:00 set.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 16:31:12 engine.py [line:78] INFO: Start time : 2018-08-15 16:31:12.396000
+2018-08-15 16:31:12 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:31:13 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 16:31:14 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 16:31:16 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=0>
+2018-08-15 16:31:18 engine.py [line:121] INFO: Main thread is over
+2018-08-15 16:31:18 engine.py [line:83] INFO: End time : 2018-08-15 16:31:18.017000
+2018-08-15 16:31:18 engine.py [line:85] INFO: Using time: 5.621
+2018-08-15 16:47:41 engine.py [line:78] INFO: Start time : 2018-08-15 16:47:41.098000
+2018-08-15 16:47:41 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:47:42 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=25>
+2018-08-15 16:47:44 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/top250?start=50>
+2018-08-15 16:47:46 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1292052/>
+2018-08-15 16:47:49 downloader.py [line:35] INFO: Downloader response : [200] <https://movie.douban.com/subject/1291546/>
+2018-08-15 16:47:50 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1295644%2F>
+2018-08-15 16:47:52 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292720%2F>
+2018-08-15 16:47:56 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292063%2F>
+2018-08-15 16:47:57 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1292722%2F>
+2018-08-15 16:47:59 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1291561%2F>
+2018-08-15 16:48:00 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F1295124%2F>
+2018-08-15 16:49:41 engine.py [line:78] INFO: Start time : 2018-08-15 16:49:41.095000
+2018-08-15 16:49:41 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:51:15 engine.py [line:78] INFO: Start time : 2018-08-15 16:51:15.710000
+2018-08-15 16:51:15 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:51:56 engine.py [line:78] INFO: Start time : 2018-08-15 16:51:56.266000
+2018-08-15 16:51:56 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:52:21 engine.py [line:78] INFO: Start time : 2018-08-15 16:52:21.572000
+2018-08-15 16:52:21 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:52:23 set.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 16:53:28 engine.py [line:78] INFO: Start time : 2018-08-15 16:53:28.634000
+2018-08-15 16:53:28 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:53:29 set.py [line:38] INFO: Filter Request: <http://news.baidu.com>
+2018-08-15 16:53:29 set.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 16:53:29 set.py [line:38] INFO: Filter Request: <http://www.baidu.com>
+2018-08-15 16:53:29 set.py [line:38] INFO: Filter Request: <https://movie.douban.com/top250?start=0>
+2018-08-15 16:53:29 set.py [line:38] INFO: Filter Request: <https://movie.douban.com/top250?start=25>
+2018-08-15 16:53:29 set.py [line:38] INFO: Filter Request: <https://movie.douban.com/top250?start=50>
+2018-08-15 16:53:48 engine.py [line:78] INFO: Start time : 2018-08-15 16:53:48.006000
+2018-08-15 16:53:48 engine.py [line:95] INFO: Async Type is thread
+2018-08-15 16:53:49 downloader.py [line:35] INFO: Downloader response : [200] <http://news.baidu.com/>
+2018-08-15 16:53:50 downloader.py [line:35] INFO: Downloader response : [200] <http://www.baidu.com/>
+2018-08-15 16:53:51 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D0>
+2018-08-15 16:53:52 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D25>
+2018-08-15 16:53:53 downloader.py [line:35] INFO: Downloader response : [403] <https://sec.douban.com/b?r=https%3A%2F%2Fmovie.douban.com%2Ftop250%3Fstart%3D50>
+2018-08-15 16:54:28 engine.py [line:78] INFO: Start time : 2018-08-15 16:54:28.466000
+2018-08-15 16:54:28 engine.py [line:95] INFO: Async Type is thread
